@@ -37,4 +37,5 @@ console.log(string);
 var rev=strcode.reversehash(string);
 console.log(rev);
 console.log(strcode.encode(rev));
+console.log('finally done !!!!!');
 
